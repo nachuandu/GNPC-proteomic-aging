@@ -1,0 +1,9 @@
+# Recorded in the cumulative-addition analysis environment (Python 3.12.6).
+# These pins are provenance, not a claim of a newly tested clean installation.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.2
+phate==2.0.0
+# Used by the runner; exact historical version was not recorded in its protocol.
+threadpoolctl
