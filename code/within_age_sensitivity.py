@@ -1,4 +1,6 @@
-"""Age-local percentile sensitivity across complete cumulative joint fits.
+"""HISTORICAL / SUPERSEDED: see run_single_visit.py for the final method.
+
+Age-local percentile sensitivity across complete cumulative joint fits.
 
 No study data are included. Inputs and outputs belong in an approved environment.
 """

@@ -1,4 +1,4 @@
-"""Cumulative participant-addition audit with fixed GNPC-selected features.
+"""HISTORICAL / SUPERSEDED: cumulative participant-addition audit with fixed GNPC-selected features.
 
 Each fit starts from scratch. Each participant contributes all eligible visits.
 This is a joint-fit sensitivity analysis, not frozen-reference validation.
