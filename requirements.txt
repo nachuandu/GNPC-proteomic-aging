@@ -7,3 +7,7 @@ scikit-learn==1.5.2
 phate==2.0.0
 # Used by the runner; exact historical version was not recorded in its protocol.
 threadpoolctl
+# Required by the newly curated association/deviation adapters.
+# Historical pyGAM version has not yet been recovered; record the installed
+# version with each authorized rerun rather than treating this as a lockfile.
+pygam
